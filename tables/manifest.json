@@ -1,0 +1,475 @@
+{
+  "updatedAt": "2026-09-03T21:16:17Z",
+  "source": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/moisture-meter-conversion-tables.html",
+  "tables": [
+    {
+      "id": "barley",
+      "label": "Barley, 52 kg/hL and over",
+      "sampleG": 225,
+      "tableDate": "2022-07",
+      "tableNo": "14",
+      "file": "barley.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/barley.pdf"
+    },
+    {
+      "id": "barley_hulless",
+      "label": "Barley, Hulless",
+      "sampleG": 225,
+      "tableDate": "1994-08",
+      "tableNo": "1",
+      "file": "barley_hulless.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/hullbarley.pdf"
+    },
+    {
+      "id": "barley_lw",
+      "label": "Barley, Light Weight, less than 52 kg/hL",
+      "sampleG": 200,
+      "tableDate": "1979-rev",
+      "tableNo": "10",
+      "file": "barley_lw.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/barleylightwt.pdf"
+    },
+    {
+      "id": "beans_azuki",
+      "label": "Beans, Azuki",
+      "sampleG": 250,
+      "tableDate": "2010-07",
+      "tableNo": "1",
+      "file": "beans_azuki.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/azuki.pdf"
+    },
+    {
+      "id": "beans_black",
+      "label": "Beans, Black",
+      "sampleG": 250,
+      "tableDate": "2018-07",
+      "tableNo": "3",
+      "file": "beans_black.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/bb.pdf"
+    },
+    {
+      "id": "beans_cranberry",
+      "label": "Beans, Cranberry",
+      "sampleG": 225,
+      "tableDate": "2006-07",
+      "tableNo": "2",
+      "file": "beans_cranberry.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/cranberry.pdf"
+    },
+    {
+      "id": "beans_dark_red_kidney",
+      "label": "Beans, Dark Red Kidney",
+      "sampleG": 250,
+      "tableDate": "2006-07",
+      "tableNo": "2",
+      "file": "beans_dark_red_kidney.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/darkredkidney.pdf"
+    },
+    {
+      "id": "beans_eastern_white_kidney",
+      "label": "Beans, Eastern White Kidney",
+      "sampleG": 250,
+      "tableDate": "2011-07",
+      "tableNo": "1",
+      "file": "beans_eastern_white_kidney.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/whitekidney.pdf"
+    },
+    {
+      "id": "beans_great_northern",
+      "label": "Beans, Great Northern White",
+      "sampleG": 250,
+      "tableDate": "2016-07",
+      "tableNo": "1",
+      "file": "beans_great_northern.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/beans-greatnorthern.pdf"
+    },
+    {
+      "id": "beans_light_red_kidney",
+      "label": "Beans, Light Red Kidney",
+      "sampleG": 250,
+      "tableDate": "2011-07",
+      "tableNo": "1",
+      "file": "beans_light_red_kidney.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/lightredkidney.pdf"
+    },
+    {
+      "id": "beans_otebo",
+      "label": "Beans, Otebo",
+      "sampleG": 250,
+      "tableDate": "2014-07",
+      "tableNo": "1",
+      "file": "beans_otebo.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/otebo.pdf"
+    },
+    {
+      "id": "beans_pea",
+      "label": "Beans, Pea Beans",
+      "sampleG": 250,
+      "tableDate": "2019-07",
+      "tableNo": "3",
+      "file": "beans_pea.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/peabeans.pdf"
+    },
+    {
+      "id": "beans_pinto",
+      "label": "Beans, Pinto",
+      "sampleG": 250,
+      "tableDate": "2007-07",
+      "tableNo": "2",
+      "file": "beans_pinto.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/pinb.pdf"
+    },
+    {
+      "id": "beans_small_red",
+      "label": "Beans, Small Red",
+      "sampleG": 250,
+      "tableDate": "2014-07",
+      "tableNo": "1",
+      "file": "beans_small_red.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/smallredbeans.pdf"
+    },
+    {
+      "id": "buckwheat",
+      "label": "Buckwheat",
+      "sampleG": 225,
+      "tableDate": "1978-04",
+      "tableNo": "3",
+      "file": "buckwheat.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/buckwheat.pdf"
+    },
+    {
+      "id": "canary",
+      "label": "Canary Seed",
+      "sampleG": 250,
+      "tableDate": "2021-07",
+      "tableNo": "1",
+      "file": "canary.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/canary.pdf"
+    },
+    {
+      "id": "canola",
+      "label": "Canola and Rapeseed",
+      "sampleG": 250,
+      "tableDate": "2014-07",
+      "tableNo": "6",
+      "file": "canola.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/canola.pdf"
+    },
+    {
+      "id": "chickpeas",
+      "label": "Chickpeas",
+      "sampleG": 250,
+      "tableDate": "2020-07",
+      "tableNo": "2",
+      "file": "chickpeas.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/chickpeas.pdf"
+    },
+    {
+      "id": "corn_high",
+      "label": "Corn, High Moisture",
+      "sampleG": 175,
+      "tableDate": "2000-07",
+      "tableNo": "11A",
+      "file": "corn_high.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/cornhighmoist.pdf"
+    },
+    {
+      "id": "corn_low",
+      "label": "Corn, Low Moisture",
+      "sampleG": 250,
+      "tableDate": "2000-07",
+      "tableNo": "6",
+      "file": "corn_low.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/cornlowmoist.pdf"
+    },
+    {
+      "id": "faba",
+      "label": "Faba beans",
+      "sampleG": 250,
+      "tableDate": "1977-02",
+      "tableNo": "2",
+      "file": "faba.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/fababeans.pdf"
+    },
+    {
+      "id": "flax",
+      "label": "Flaxseed",
+      "sampleG": 225,
+      "tableDate": "2013-07",
+      "tableNo": "7",
+      "file": "flax.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/flax.pdf"
+    },
+    {
+      "id": "lentils",
+      "label": "Lentils, other than red",
+      "sampleG": 250,
+      "tableDate": "2026-07",
+      "tableNo": "4",
+      "file": "lentils.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/lentils-other.pdf"
+    },
+    {
+      "id": "lentils_red",
+      "label": "Lentils, red",
+      "sampleG": 250,
+      "tableDate": "2018-07",
+      "tableNo": "4",
+      "file": "lentils_red.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/lentils-red.pdf"
+    },
+    {
+      "id": "mustard_b",
+      "label": "Mustard seed, Brown",
+      "sampleG": 250,
+      "tableDate": "2007-07",
+      "tableNo": "11",
+      "file": "mustard_b.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/bmust.pdf"
+    },
+    {
+      "id": "mustard_o",
+      "label": "Mustard seed, Oriental",
+      "sampleG": 250,
+      "tableDate": "2007-07",
+      "tableNo": "10",
+      "file": "mustard_o.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/omust.pdf"
+    },
+    {
+      "id": "mustard_y",
+      "label": "Mustard seed, Yellow",
+      "sampleG": 250,
+      "tableDate": "2007-07",
+      "tableNo": "9",
+      "file": "mustard_y.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/ymust.pdf"
+    },
+    {
+      "id": "oats",
+      "label": "Oats",
+      "sampleG": 200,
+      "tableDate": "2001-08",
+      "tableNo": "6",
+      "file": "oats.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/oats.pdf"
+    },
+    {
+      "id": "oats_hulless",
+      "label": "Oats, Hulless",
+      "sampleG": 200,
+      "tableDate": "2009-07",
+      "tableNo": "1",
+      "file": "oats_hulless.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/ho-agn.pdf"
+    },
+    {
+      "id": "oats_lw",
+      "label": "Oats, Light Weight, less than 48 kg/hL",
+      "sampleG": 140,
+      "tableDate": "2003-08",
+      "tableNo": "1",
+      "file": "oats_lw.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/oatslightwttemp.pdf"
+    },
+    {
+      "id": "peas",
+      "label": "Peas, Green and Yellow",
+      "sampleG": 250,
+      "tableDate": "2025-07",
+      "tableNo": "4",
+      "file": "peas.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/peas.pdf"
+    },
+    {
+      "id": "rye",
+      "label": "Rye",
+      "sampleG": 250,
+      "tableDate": "2022-07",
+      "tableNo": "6",
+      "file": "rye.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/rye.pdf"
+    },
+    {
+      "id": "safflower",
+      "label": "Safflower seed, calibrate at 73",
+      "sampleG": 150,
+      "tableDate": "1992-08",
+      "tableNo": "1",
+      "file": "safflower.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/safflower.pdf"
+    },
+    {
+      "id": "soybean",
+      "label": "Soybean",
+      "sampleG": 225,
+      "tableDate": "2014-07",
+      "tableNo": "9",
+      "file": "soybean.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/soybean.pdf"
+    },
+    {
+      "id": "split_peas",
+      "label": "Split Peas, Green and Yellow",
+      "sampleG": 250,
+      "tableDate": "1996-07",
+      "tableNo": "1",
+      "file": "split_peas.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/splitpeas.pdf"
+    },
+    {
+      "id": "sunflower",
+      "label": "Sunflower seed, calibrate at 73",
+      "sampleG": 150,
+      "tableDate": "1978-10",
+      "tableNo": "3",
+      "file": "sunflower.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/sunflower.pdf"
+    },
+    {
+      "id": "triticale",
+      "label": "Triticale",
+      "sampleG": 250,
+      "tableDate": "1981-08",
+      "tableNo": "1",
+      "file": "triticale.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/Triticale.pdf"
+    },
+    {
+      "id": "cehrw",
+      "label": "Wheat, Canada Eastern Hard Red Winter",
+      "sampleG": 250,
+      "tableDate": "2023-07",
+      "tableNo": "2",
+      "file": "cehrw.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/easthardred.pdf"
+    },
+    {
+      "id": "cers",
+      "label": "Wheat, Canada Eastern Red Spring",
+      "sampleG": 250,
+      "tableDate": "2024-07",
+      "tableNo": "2",
+      "file": "cers.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/eastredspring.pdf"
+    },
+    {
+      "id": "cesrw",
+      "label": "Wheat, Canada Eastern Soft Red Winter",
+      "sampleG": 250,
+      "tableDate": "2024-07",
+      "tableNo": "3",
+      "file": "cesrw.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/cesrw.pdf"
+    },
+    {
+      "id": "ceww",
+      "label": "Wheat, Canada Eastern White Winter",
+      "sampleG": 250,
+      "tableDate": "2019-07",
+      "tableNo": "6",
+      "file": "ceww.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/ewww.pdf"
+    },
+    {
+      "id": "cnhr",
+      "label": "Wheat, Canada Northern Hard Red",
+      "sampleG": 250,
+      "tableDate": "2023-07",
+      "tableNo": "2",
+      "file": "cnhr.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/wheat-cnhr.pdf"
+    },
+    {
+      "id": "cps",
+      "label": "Wheat, Canada Prairie Spring Red, Canada Prairie Spring White",
+      "sampleG": 250,
+      "tableDate": "2021-07",
+      "tableNo": "3",
+      "file": "cps.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/cdaprairiespring.pdf"
+    },
+    {
+      "id": "cwad",
+      "label": "Wheat, Canada Western Amber Durum, Canada Eastern Amber Durum",
+      "sampleG": 250,
+      "tableDate": "2020-07",
+      "tableNo": "5",
+      "file": "cwad.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/amberdur.pdf"
+    },
+    {
+      "id": "cwes",
+      "label": "Wheat, Canada Western Extra Strong Red Spring",
+      "sampleG": 250,
+      "tableDate": "2002-08",
+      "tableNo": "2",
+      "file": "cwes.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/extrastrongredsp.pdf"
+    },
+    {
+      "id": "cwhws",
+      "label": "Wheat, Canada Western Hard White Spring",
+      "sampleG": 250,
+      "tableDate": "2005-08",
+      "tableNo": "1",
+      "file": "cwhws.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/hws.pdf"
+    },
+    {
+      "id": "cwrs",
+      "label": "Wheat, Canada Western Red Spring, 66 kg/hL and over",
+      "sampleG": 250,
+      "tableDate": "2021-07",
+      "tableNo": "12",
+      "file": "cwrs.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/cwrs.pdf"
+    },
+    {
+      "id": "cwrs_lw",
+      "label": "Wheat, Canada Western Red Spring, less than 66 kg/hL",
+      "sampleG": 225,
+      "tableDate": "1979-08",
+      "tableNo": "9",
+      "file": "cwrs_lw.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/redspringlightwt.pdf"
+    },
+    {
+      "id": "cwsws",
+      "label": "Wheat, Canada Western Soft White Spring",
+      "sampleG": 250,
+      "tableDate": "2025-07",
+      "tableNo": "6",
+      "file": "cwsws.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/swsw.pdf"
+    },
+    {
+      "id": "cwrw",
+      "label": "Wheat, Canada Western Red Winter",
+      "sampleG": 250,
+      "tableDate": "2021-07",
+      "tableNo": "6",
+      "file": "cwrw.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/westernwinter.pdf"
+    },
+    {
+      "id": "hemp",
+      "label": "Hemp Seed",
+      "sampleG": 175,
+      "tableDate": "1999-02",
+      "tableNo": "",
+      "file": "hemp.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/hemp.pdf"
+    },
+    {
+      "id": "solin",
+      "label": "Solin",
+      "sampleG": 225,
+      "tableDate": "2013-07",
+      "tableNo": "",
+      "file": "solin.json",
+      "sourcePdf": "https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/pdf/solin.pdf"
+    }
+  ],
+  "errors": []
+}
