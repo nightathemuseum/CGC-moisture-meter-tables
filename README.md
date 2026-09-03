@@ -16,7 +16,7 @@ HarvestMark loads these files from:
 
 ## Update schedule
 
-GitHub Actions runs on the 1st of January, April, July, and October (CGC tables usually change in July), and can be run manually.
+GitHub Actions runs at the end of January, April, July, and October (CGC tables usually change in July), and can be run manually.
 
 ```
 python scripts/update_tables.py
