@@ -2,7 +2,7 @@
 
 Machine-readable [Canadian Grain Commission](https://www.grainscanada.gc.ca/en/grain-quality/grain-grading/grading-factors/moisture-content/moisture-meter-conversion-tables.html) Model 919/3.5" moisture conversion tables.
 
-Source PDFs remain on the CGC website. This repo republishes the grids as JSON for offline use (HarvestMark and similar tools).
+Source PDFs remain on the CGC website. This repo republishes the grids as JSON for offline use.
 
 ## Layout
 
@@ -10,7 +10,7 @@ Source PDFs remain on the CGC website. This repo republishes the grids as JSON f
 - `tables/<id>.json` — meter reading × temperature (°C 11–30) moisture grid
 - `scripts/update_tables.py` — scrape the CGC index, download new PDFs, parse, publish
 
-HarvestMark loads these files from:
+Load these files from:
 
 `https://raw.githubusercontent.com/nightathemuseum/CGC-moisture-meter-tables/main/tables/manifest.json`
 
